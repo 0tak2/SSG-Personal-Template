@@ -18,7 +18,7 @@ Obsidian을 활용하여 학습한 내용을 Markdown 노트로 기록하고, Gi
 ### 📌 저장소 클론
 ```bash
 git clone https://github.com/0tak2/SSG-obsidian.git
-cd SSSG-obsidian.git
+cd SSG-obsidian.git
 // obsidian 저장소의 vault를 해당 디렉토리로 설정해주세요!
 ```
 
